@@ -1,0 +1,30 @@
+.main {
+    border: 1px solid black;
+    width: 1000px;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    height: 500px;
+    border-top: 1px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.left_box {
+    width: 49%;
+    float: left;
+}
+
+.right_box {
+    width: 49%;
+    float: right;
+}
+

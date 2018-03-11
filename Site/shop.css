@@ -1,0 +1,78 @@
+body {
+    background-image: url("images/shop.jpg");
+    font-family: 'Dancing Script', cursive;
+}
+
+#content {
+    width: 80%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    margin: 5px auto;
+    position: absolute;
+}
+
+#logo {
+    width: 150px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product {
+    width: 20%;
+    height: 250px;
+    float: left;
+    background: white;
+    margin-top: 3%;
+    margin-left: 3.9%;
+    border: 1px dotted grey;
+    text-align: center;
+}
+
+.product_link {
+    color: blue;
+    font-size: 18px;
+    display: block;
+    margin-top: 15px;
+}
+
+.product_img {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.left_box {
+    width: 49%;
+    float: left;
+    text-align: center;
+    background: white;
+}
+
+.right_box {
+    width: 49%;
+    height: 285px;
+    float: right;
+    color: white;
+}
+
+.right_box p, h2 {
+    padding: 10px;
+    text-align: justify;
+}
+
+.more_box {
+    width: 100%;
+    float: left;
+}
+
+.more {
+    color: white;
+    font-size: 30px;
+}
+
